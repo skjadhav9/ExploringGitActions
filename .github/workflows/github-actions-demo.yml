@@ -6,4 +6,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Event triggered WF
-      - run: echo "Job was triggered by a ${{github.event_name}} event."
+      - run: echo "Job was triggered by a ${{github.event_name}} eventss."
